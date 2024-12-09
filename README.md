@@ -75,6 +75,11 @@ git commit -m "Add feature"
 git push origin feature-name
 ```
 5. **Open a pull request**.
+```bash
+git pull origin main
+```
+
+---
 
 ## **Future Enhancements** 🚀
 
@@ -83,13 +88,17 @@ git push origin feature-name
 - **Add sound effects and background music**.
 - **Implement multiplayer mode for competitive gameplay**.
 
+---
+
 ## **License** 📜
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT] License.
+
+---
 
 ## **Contact** ✉️
 
-Created by Your Name. Feel free to reach out with suggestions or feedback!
+Created by [Coder Shota Kun]. Feel free to reach out with suggestions or feedback!
 ```bash
 
 Copy and paste this into your `README.md`, and you're good to go! Let me know if you want to tweak anything. 😊
