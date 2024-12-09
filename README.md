@@ -55,7 +55,7 @@ python space_fighter.py
 
 ## **Preview** 📸
 
-![Gameplay Preview](1209.gif)
+![Gameplay Preview](gameplay.gif)
 
 ## **Contributing** 🤝
 
