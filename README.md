@@ -98,7 +98,7 @@ This project is licensed under the [**MIT** License](https://opensource.org/lice
 
 ## **Contact** ✉️
 
-Created by [Coder Shota Kun]. Feel free to reach out with suggestions or feedback!
+Created by [**Coder Shota Kun**](https://github.com/NanGyeThote). Feel free to reach out with suggestions or feedback!
 ```bash
 
 Copy and paste this into your `README.md`, and you're good to go! Let me know if you want to tweak anything. 😊
