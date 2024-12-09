@@ -32,7 +32,6 @@
 - **Python** 3.8 or above  
 - **Libraries**:  
   - `pygame`  
-  - Other dependencies (if any)  
 
 Install dependencies using:  
   ```bash
@@ -43,9 +42,9 @@ Install dependencies using:
 
 ## **Installation** 🚀
 
-1. **CClone the Repository**:
+1. **Clone the Repository**:
 ```bash
-git clone https://github.com/your-username/space-fighter.git
+git clone https://github.com/NanGyeThore/Space-Fighter.git
 cd space-fighter
 ```
 
